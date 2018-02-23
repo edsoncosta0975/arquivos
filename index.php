@@ -2,6 +2,4 @@
 
 echo "Alo Mundo!";
 
-echo "teste";
-
 ?>
